@@ -23,7 +23,8 @@ description: This is data produced by the Soltesz Lab NeuroH5 software. The data
   been converted to NWB using the ndx-simulation-output extension (https://github.com/catalystneuro/ndx-simulation-output).
 id: DANDI:000064/draft
 identifier: DANDI:000064
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000064/versions/draft/assets/
 name: Simulation extension example
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
