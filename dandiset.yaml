@@ -18,7 +18,7 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Simulation extension example (2021). (Version draft) [Data set]. DANDI archive.
+citation: Simulation extension example (2022). (Version draft) [Data set]. DANDI archive.
   https://dandiarchive.org/dandiset/000064/draft
 dateCreated: '2021-04-06T18:52:24.402000+00:00'
 description: This is data produced by the Soltesz Lab NeuroH5 software. The data has
