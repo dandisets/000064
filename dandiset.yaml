@@ -20,7 +20,7 @@ assetsSummary:
   species: []
   variableMeasured: []
 citation: Raikov, Ivan; Milstein, Aaron; Soltesz, Ivan (2022) Simulation extension
-  example (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000064/draft
+  example (Version 0.221025.1735) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000064/0.221025.1735
 contributor:
 - affiliation: []
   includeInCitation: true
@@ -49,18 +49,32 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2021-04-06T18:52:24.402000+00:00'
+datePublished: '2022-10-25T17:35:07.605543+00:00'
 description: This is data produced by the Soltesz Lab NeuroH5 software (https://github.com/iraikov/neuroh5).
   The data has been converted to NWB using the ndx-simulation-output extension (https://github.com/catalystneuro/ndx-simulation-output).
+doi: 10.48324/dandi.000064/0.221025.1735
 ethicsApproval: []
-id: DANDI:000064/draft
+id: DANDI:000064/0.221025.1735
 identifier: DANDI:000064
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000064/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000064/0.221025.1735/assets.yaml
 name: Simulation extension example
 protocol: []
+publishedBy:
+  endDate: '2022-10-25T17:35:07.605543+00:00'
+  id: urn:uuid:90a259e4-310e-49c4-a73f-6b8505295307
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-10-25T17:35:07.605543+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:81ce074d-ccf7-406d-a743-94b0e3b4c2ba
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Neuroh5
   relation: dcite:IsDerivedFrom
@@ -71,6 +85,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000064/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000064/0.221025.1735
+version: 0.221025.1735
 wasGeneratedBy: []
